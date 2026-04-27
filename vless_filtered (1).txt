@@ -1,5 +1,5 @@
-#profile-title: 🏳️ AERO VPN 
-#announce: Совет: Если не работает То выберите Другой сервер! AERO VPN 
+#profile-title: 🏳️ AERO VPN ПРОБНАЯ ПОДПИСКА
+#announce: Совет: ПРОБНАЯ ПОДПИСКА, В этой Подписке Ограниченное Количество Серверов 
 #profile-update-interval: 1
 vless://1975def1-e345-486c-b4d4-70eb873d9d0c@50.7.244.146:443?encryption=none&security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=y0PWSBR4PspClVxndgZDotsMIiSwFwXB_XElAoIF9iI&sid=84638c0e&spx=%2F&flow=xtls-rprx-vision&type=tcp# франция | wifi | #1
 vless://1975def1-e345-486c-b4d4-70eb873d9d0c@72.56.12.30:443?encryption=none&security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=nX91iHiehyuIbxuD69n8ItISnmuFiXOBYtE48DK72lY&sid=d2f672aa&spx=%2F&flow=xtls-rprx-vision&type=tcp# россия | wifi | #2
