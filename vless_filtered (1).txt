@@ -1,9 +1,6 @@
 #profile-title: 🏳️ AERO VPN 
 #announce: Совет: Если не работает То выберите Другой сервер! AERO VPN 
 #profile-update-interval: 1
-vless://1975def1-e345-486c-b4d4-70eb873d9d0c@50.7.244.146:443?encryption=none&security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=y0PWSBR4PspClVxndgZDotsMIiSwFwXB_XElAoIF9iI&sid=84638c0e&spx=%2F&flow=xtls-rprx-vision&type=tcp#🔥🔥 ЛУЧШИЙ ⚡️ 🇫🇷 Франция | WIFI | #1
-vless://1975def1-e345-486c-b4d4-70eb873d9d0c@72.56.12.30:443?encryption=none&security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=nX91iHiehyuIbxuD69n8ItISnmuFiXOBYtE48DK72lY&sid=d2f672aa&spx=%2F&flow=xtls-rprx-vision&type=tcp#🔥🔥 ЛУЧШИЙ ⚡️ 🇷🇺 Россия | WIFI | #2
-vless://1975def1-e345-486c-b4d4-70eb873d9d0c@84.201.180.91:443?encryption=none&security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=n995xG00VmlZ2j_SIka7jUo8_jKQO8gIQU5FQaU-0AA&sid=743cdafc&spx=%2F&flow=xtls-rprx-vision&type=tcp#🔥🔥 ЛУЧШИЙ ⚡️ 🇷🇺 Россия | LTE | #3
-vless://1975def1-e345-486c-b4d4-70eb873d9d0c@85.239.43.7:443?encryption=none&security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=cn2-LCnGrg74QBSgo6bNaQTuGyfVotH6cWVmrOSumhY&sid=11c41134&spx=%2F&flow=xtls-rprx-vision&type=tcp#🔥🔥 ЛУЧШИЙ ⚡️ 🇷🇺 Россия | WIFI | #4
-vless://f11f5c49-6440-4180-8324-211fa7bd07f3@158.160.226.12:443?security=reality&flow=xtls-rprx-vision&type=tcp&sni=yandex.ru&fp=chrome&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY&sid=#🔥 СТАБИЛЬНЫЙ 🇩🇪 Германия | LTE | #5
-vless://19ff5f84-32b8-4a57-8537-2e3ac345927c@83.220.175.17:443?security=reality&flow=xtls-rprx-vision&type=tcp&sni=api-maps.yandex.ru&fp=chrome&pbk=RoJveMb0kdNvXHCmyyIxGJFEO4U06mqiibrLN1Hmcgk&sid=#🔥 СТАБИЛЬНЫЙ 🇷🇺 Россия | LTE | #6
+vless://1975def1-e345-486c-b4d4-70eb873d9d0c@50.7.244.146:443?encryption=none&security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=y0PWSBR4PspClVxndgZDotsMIiSwFwXB_XElAoIF9iI&sid=84638c0e&spx=%2F&flow=xtls-rprx-vision&type=tcp# франция | wifi | #1
+vless://1975def1-e345-486c-b4d4-70eb873d9d0c@72.56.12.30:443?encryption=none&security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=nX91iHiehyuIbxuD69n8ItISnmuFiXOBYtE48DK72lY&sid=d2f672aa&spx=%2F&flow=xtls-rprx-vision&type=tcp# россия | wifi | #2
+vless://1975def1-e345-486c-b4d4-70eb873d9d0c@84.201.180.91:443?encryption=none&security=reality&sni=tunnel.vk-apps.com&fp=chrome&pbk=n995xG00VmlZ2j_SIka7jUo8_jKQO8gIQU5FQaU-0AA&sid=743cdafc&spx=%2F&flow=xtls-rprx-vision&type=tcp# россия | lte | #3
