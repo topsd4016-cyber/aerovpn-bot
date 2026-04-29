@@ -2,6 +2,6 @@
 #announce: Совет: ПРОБНАЯ ПОДПИСКА, В этой Подписке Ограниченное Количество Серверов 
 #profile-update-interval: 24
 #profile-web-page-url: https://t.me/AeroVPNpro
-vless://4147b919-e1c3-4e29-a1d8-37481c4c34e8@85.239.43.7:443?type=tcp&security=reality&pbk=cn2-LCnGrg74QBSgo6bNaQTuGyfVotH6cWVmrOSumhY&fp=chrome&sni=tunnel.vk-apps.com&sid=11c41134&spx=%2F&flow=xtls-rprx-vision&encryption=none#польша | lte | #1
-vless://4147b919-e1c3-4e29-a1d8-37481c4c34e8@50.7.244.146:443?type=tcp&security=reality&pbk=y0PWSBR4PspClVxndgZDotsMIiSwFwXB_XElAoIF9iI&fp=chrome&sni=tunnel.vk-apps.com&sid=84638c0e&spx=%2F&flow=xtls-rprx-vision&encryption=none# россия | wifi | #2
-vless://4147b919-e1c3-4e29-a1d8-37481c4c34e8@50.7.244.146:443?type=tcp&security=reality&pbk=y0PWSBR4PspClVxndgZDotsMIiSwFwXB_XElAoIF9iI&fp=chrome&sni=tunnel.vk-apps.com&sid=84638c0e&spx=%2F&flow=xtls-rprx-vision&encryption=none# россия | lte | #3
+vless://4147b919-e1c3-4e29-a1d8-37481c4c34e8@85.239.43.7:443?type=tcp&security=reality&pbk=cn2-LCnGrg74QBSgo6bNaQTuGyfVotH6cWVmrOSumhY&fp=chrome&sni=tunnel.vk-apps.com&sid=11c41134&spx=%2F&flow=xtls-rprx-vision&encryption=none#🇵🇱 польша | lte | #1
+vless://4147b919-e1c3-4e29-a1d8-37481c4c34e8@50.7.244.146:443?type=tcp&security=reality&pbk=y0PWSBR4PspClVxndgZDotsMIiSwFwXB_XElAoIF9iI&fp=chrome&sni=tunnel.vk-apps.com&sid=84638c0e&spx=%2F&flow=xtls-rprx-vision&encryption=none#🇷🇺 россия | wifi | #2
+vless://4147b919-e1c3-4e29-a1d8-37481c4c34e8@50.7.244.146:443?type=tcp&security=reality&pbk=y0PWSBR4PspClVxndgZDotsMIiSwFwXB_XElAoIF9iI&fp=chrome&sni=tunnel.vk-apps.com&sid=84638c0e&spx=%2F&flow=xtls-rprx-vision&encryption=none#🇷🇺 россия | lte | #3
